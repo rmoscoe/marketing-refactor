@@ -20,8 +20,8 @@ h1 {
     font-size: 48px;
 }
 
-
-.seo { /*applies to the letters "seo" in "Horiseon" in the h1*/
+/*applies to the letters "seo" in "Horiseon" in the h1*/
+.seo { 
     color: #d9dcd6;
 }
 
@@ -51,7 +51,8 @@ p {
     font-size: 16px;
 }
 
-.hero { /*This class applies to a section immediately beneath the header and above the content of the page.*/
+/*This class applies to a section immediately beneath the header and above the content of the page.*/
+.hero { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -60,12 +61,14 @@ p {
     background-position: center;
 }
 
-.float-left { /*Images to the left of text in a card*/
+/*Images to the left of text in a card*/
+.float-left { 
     float: left;
     margin-right: 25px;
 }
 
-.float-right { /*Image to the right of text in a card*/
+/*Image to the right of text in a card*/
+.float-right { 
     float: right;
     margin-left: 25px;
 }
@@ -87,23 +90,27 @@ p {
     background-color: #2589bd;
 }
 
-aside section { /*Consolidated to apply to all sections in the aside*/
+/*Consolidated to apply to all sections in the aside*/
+aside section { 
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.small { /*Consolidated to apply to all headings in the aside*/
+/*Consolidated to apply to all headings in the aside*/
+.small { 
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside section img { /*Consolidated to apply to all images in the aside*/
+/*Consolidated to apply to all images in the aside*/
+aside section img { 
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.content section { /*Consolidated to apply to all sections (cards) in the main content sections*/
+/*Consolidated to apply to all sections (cards) in the main content sections*/
+.content section { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,11 +119,13 @@ aside section img { /*Consolidated to apply to all images in the aside*/
     color: #ffffff;
 }
 
-.content img { /*Consolidated to apply to all images in the main content section*/
+/*Consolidated to apply to all images in the main content section*/
+.content img { 
     max-height: 200px;
 }
 
-.content h2 { /*Consolidated to apply to all h2 elements in the main content section*/
+/*Consolidated to apply to all h2 elements in the main content section*/
+.content h2 { 
     margin-bottom: 20px;
     font-size: 36px;
 }
