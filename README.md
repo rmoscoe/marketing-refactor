@@ -15,11 +15,11 @@ This project uses the following technologies:
 
 Lastly, if your project is deployed, include a link to the deployed application here.
 
-![screenshot of Horiseon website][def2]
+![screenshot of Horiseon website](./assets/images/Horiseon1.png)
 
 <br />
 
-![screenshot of Horiseon website][def]
+![screenshot of Horiseon website](./assets/images/Horiseon2.png)
 
 ## Installation
 
@@ -28,6 +28,3 @@ N/A
 ## Credits
 
 Starter code provided by Trilogy Education Services, LLC, a 2U, Inc. brand.
-
-[def]: ./Assets/images/Horiseon2.png
-[def2]: ./Assets/images/Horiseon1.png
