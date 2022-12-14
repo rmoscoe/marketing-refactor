@@ -51,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-.hero { /*This class applies to a div immediately beneath the header and above the content of the page.*/
+.hero { /*This class applies to a section immediately beneath the header and above the content of the page.*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -103,7 +103,7 @@ aside section img { /*Consolidated to apply to all images in the aside*/
     max-width: 150px;
 }
 
-.content section { /*Consolidated to apply to all sections (cards) in the main content container*/
+.content section { /*Consolidated to apply to all sections (cards) in the main content sections*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,11 +112,11 @@ aside section img { /*Consolidated to apply to all images in the aside*/
     color: #ffffff;
 }
 
-.content img { /*Consolidated to apply to all images in the main content container*/
+.content img { /*Consolidated to apply to all images in the main content section*/
     max-height: 200px;
 }
 
-.content h2 { /*Consolidated to apply to all h2 elements in the main content container*/
+.content h2 { /*Consolidated to apply to all h2 elements in the main content section*/
     margin-bottom: 20px;
     font-size: 36px;
 }
