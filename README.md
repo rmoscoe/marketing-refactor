@@ -13,7 +13,7 @@ This project uses the following technologies:
 * HTML
 * CSS
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+[View the live Horiseon site](https://rmoscoe.github.io/marketing-refactor/)
 
 ![screenshot of Horiseon website](./assets/images/Horiseon1.png)
 
